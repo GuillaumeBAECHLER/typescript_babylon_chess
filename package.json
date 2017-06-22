@@ -1,0 +1,19 @@
+{
+  "name": "babylon",
+  "version": "1.0.0",
+  "description": "3D test",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^14.1.0",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.5",
+    "tsify": "^3.0.1",
+    "typescript": "^2.2.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

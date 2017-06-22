@@ -1,0 +1,11 @@
+{
+    "include": [
+        "assets/ts/**/*"
+    ],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es5",
+        "allowJs" : true
+    },
+    "compileOnSave": false
+}
